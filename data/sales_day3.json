@@ -1,2 +1,0 @@
-{"id": 7, "product": "Tablet", "amount": 299.99, "customer": {"name": "Alice", "tier": "Gold"}, "metadata": {"source": "web", "campaign": "spring_sale"}}
-{"id": 8, "product": "Charger", "amount": 19.99, "customer": {"name": "Bob", "tier": "Silver"}, "metadata": {"source": "mobile"}}
